@@ -1,0 +1,16 @@
+.header{
+    height: 70px;
+    width: 60vw;
+    background-color: rgba(0, 0, 0, 0.056);
+    color: rgb(0, 0, 0);
+    border-radius: 35px;
+    backdrop-filter: blur(10px);
+    display: flex;
+    margin: 0 20%;
+    justify-content: center;
+    position: fixed;
+    top: 3%;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: bold;
+}

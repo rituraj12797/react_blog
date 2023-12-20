@@ -1,0 +1,14 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    bottom: 20px;
+    height: 70px;
+    margin: 0 5%;
+    width: 90vw;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: rgb(0, 0, 0);
+    border-radius: 35px;
+    backdrop-filter: blur(10px);
+}
